@@ -40,8 +40,18 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 </div>  
   
 
-<br/>  
+<br/>
 
+##  My Projects
+  <div align="center"> 
+| Projects | Deploy  | Code repo |
+|:-------------:|:---------------:| :-------------:|
+| Row 1         | Cell 2          | Cell 3        |
+| Row 2         | Cell 5          | Cell 6        |
+| Row 3         | Cell 8          | Cell 9        |
+  </div>
+
+<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alinavodo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -49,10 +59,7 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 <br/>  
 
 
-##  My Projects
-  
 
-<br/>  
 
   
 
