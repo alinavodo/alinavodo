@@ -37,6 +37,9 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 <a href="https://github.com/alinavodo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  <a href="https://github.com/alinavodo" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/alina-vadapyanava-9185ab289" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
