@@ -44,11 +44,17 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ##  My Projects
   <div align="center"> 
-| Projects | Deploy  | Code repo |
+    <table>
+      | Projects | Deploy  | Code repo |
 |:-------------:|:---------------:| :-------------:|
 | Row 1         | Cell 2          | Cell 3        |
 | Row 2         | Cell 5          | Cell 6        |
 | Row 3         | Cell 8          | Cell 9        |
+
+    </table>
+
+
+
   </div>
 
 <br/>  
