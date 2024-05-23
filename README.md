@@ -43,39 +43,20 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 <br/>
 
 ##  My Projects
- <table><tr><td valign="top" width="33%">
+  <p>
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="blank">
+Coffee-house
+     </a>
+  </p>
+    <p>
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="blank">
+Game "Hangman"
+     </a>
+  </p>
 
 
 
-### Projects  
-<div align="center">  
-  <table>
-    <tr>Coffee House</tr>
-    <tr>Game Hangman</tr>
-  </table>
 
-
-
-</div>
-</td><td valign="top" width="33%">
-
-
-
-### Deploy 
-<div align="center">  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Code  
-<div align="center">  
- 
- 
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
