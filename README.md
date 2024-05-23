@@ -50,14 +50,14 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ### Projects  
 <div align="center">  
 </div>
-ссссс
+Coffee House
 </td><td valign="top" width="33%">
 
 
 
 ### Deploy 
 <div align="center">  
- <a href="https://github.com/alinavodo" target="_blank">
+ <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="_blank">
 Deploy
 </a>
 </div>
@@ -69,7 +69,10 @@ Deploy
 ### Code  
 <div align="center">  
 <a href="https://github.com/alinavodo" target="_blank">
-Code
+https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house
+</a>
+  <a href="https://github.com/alinavodo" target="_blank">
+https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house
 </a>
 </div>
 
