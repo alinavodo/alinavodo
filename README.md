@@ -49,8 +49,12 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ### Projects  
 <div align="center">  
-<td>Coffee House</td>
-<td>Game Hangman</td>
+  <table>
+    <td>Coffee House</td>
+    <td>Game Hangman</td>
+  </table>
+
+
 
 </div>
 </td><td valign="top" width="33%">
