@@ -50,8 +50,8 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ### Projects  
 <div align="center">  
   <table>
-    <td>Coffee House</td>
-    <td>Game Hangman</td>
+    <tr>Coffee House</tr>
+    <tr>Game Hangman</tr>
   </table>
 
 
