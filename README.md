@@ -50,20 +50,25 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ### Projects  
 <div align="center">  
 </div>
-<p>Coffee House</p>
-<p>Game Hangman</p>
+<tr>Coffee House</tr>
+<tr>Game Hangman</tr>
 </td><td valign="top" width="33%">
 
 
 
 ### Deploy 
 <div align="center">  
- <a href="[https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html]" target="_blank">
+  <tr>
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="blank">
 Deploy
 </a>
-   <a href="[https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/]" target="_blank">
+  </tr>
+<tr>
+    <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/" target="blank">
 Deploy
 </a>
+</tr>
+ 
 </div>
 
 </td><td valign="top" width="33%">
@@ -72,12 +77,17 @@ Deploy
 
 ### Code  
 <div align="center">  
-<a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house" target="blank">
+  <tr>
+    <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house" target="blank">
   Code
 </a>
-  <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/hangman" target="blank">
+  </tr>
+<tr>
+   <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/hangman" target="blank">
   Code
 </a>
+</tr>
+ 
 </div>
 
 </td></tr></table>  
