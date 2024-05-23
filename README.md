@@ -54,14 +54,10 @@ Game "Hangman"
      </a>
   </p>
     <p>
-     <a href=" https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/nonograms" target="_blank">
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/nonograms" target="_blank">
 Game nonograms
      </a>
-  </p>
-    <p>
-     <a href=" https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/nonograms" target="_blank">
-Game nonograms
-     </a>
+  
   </p>
 
 
