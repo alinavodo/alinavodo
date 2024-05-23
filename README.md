@@ -50,7 +50,8 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ### Projects  
 <div align="center">  
 </div>
-Coffee House
+<p>Coffee House</p>
+<p>Game Hangman</p>
 </td><td valign="top" width="33%">
 
 
@@ -58,6 +59,9 @@ Coffee House
 ### Deploy 
 <div align="center">  
  <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="_blank">
+Deploy
+</a>
+   <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/" target="_blank">
 Deploy
 </a>
 </div>
@@ -68,11 +72,11 @@ Deploy
 
 ### Code  
 <div align="center">  
-<a href="https://github.com/alinavodo" target="_blank">
-https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house
+<a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house" target="_blank">
+  Code
 </a>
-  <a href="https://github.com/alinavodo" target="_blank">
-https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house
+  <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/hangman" target="_blank">
+  Code
 </a>
 </div>
 
