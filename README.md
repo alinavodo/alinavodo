@@ -50,14 +50,16 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ### Projects  
 <div align="center">  
 </div>
-
+ссссс
 </td><td valign="top" width="33%">
 
 
 
 ### Deploy 
 <div align="center">  
- 
+ <a href="https://github.com/alinavodo" target="_blank">
+Deploy
+</a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -66,7 +68,9 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ### Code  
 <div align="center">  
-
+<a href="https://github.com/alinavodo" target="_blank">
+Code
+</a>
 </div>
 
 </td></tr></table>  
