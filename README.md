@@ -44,17 +44,25 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ##  My Projects
   <p>
-     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="blank">
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="_blank">
 Coffee-house
      </a>
   </p>
     <p>
-     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="blank">
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/" target="_blank">
 Game "Hangman"
      </a>
   </p>
-
-
+    <p>
+     <a href=" https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/nonograms" target="_blank">
+Game nonograms
+     </a>
+  </p>
+    <p>
+     <a href=" https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/nonograms" target="_blank">
+Game nonograms
+     </a>
+  </p>
 
 
 
