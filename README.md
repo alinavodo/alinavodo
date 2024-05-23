@@ -58,16 +58,16 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ### Deploy 
 <div align="center">  
-  <tr>
+  <td>
      <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="blank">
 Deploy
 </a>
-  </tr>
-<tr>
+  </td>
+<td>
     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/" target="blank">
 Deploy
 </a>
-</tr>
+</td>
  
 </div>
 
@@ -77,16 +77,16 @@ Deploy
 
 ### Code  
 <div align="center">  
-  <tr>
+  <td>
     <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house" target="blank">
   Code
 </a>
-  </tr>
-<tr>
+  </td>
+<td>
    <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/hangman" target="blank">
   Code
 </a>
-</tr>
+</td>
  
 </div>
 
