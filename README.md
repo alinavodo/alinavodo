@@ -50,9 +50,9 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ### Projects  
 <div align="center">  
 </div>
-<tr>Coffee House</tr>
-<tr>Game Hangman</tr>
-</td><td valign="top" width="33%">
+<td>Coffee House</td>
+<td>Game Hangman</td>
+</tr><td valign="top" width="33%">
 
 
 
