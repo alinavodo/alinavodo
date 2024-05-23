@@ -58,10 +58,10 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ### Deploy 
 <div align="center">  
- <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="_blank">
+ <a href="[https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html]" target="_blank">
 Deploy
 </a>
-   <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/" target="_blank">
+   <a href="[https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/Hangman/]" target="_blank">
 Deploy
 </a>
 </div>
@@ -72,10 +72,10 @@ Deploy
 
 ### Code  
 <div align="center">  
-<a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house" target="_blank">
+<a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/coffee-house" target="blank">
   Code
 </a>
-  <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/hangman" target="_blank">
+  <a href="https://github.com/rolling-scopes-school/alinavodo-JSFE2023Q4/tree/hangman" target="blank">
   Code
 </a>
 </div>
