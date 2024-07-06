@@ -44,8 +44,8 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 
 ##  My Projects
   <p>
-     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFEPRESCHOOL2023Q2/audio_player.html" target="_blank">
-Coffee-house
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFEPRESCHOOL2023Q2/audio_player/" target="_blank">
+Audio player
      </a>
   </p>
   <p>
