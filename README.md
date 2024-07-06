@@ -45,6 +45,11 @@ I am interested in all which is related to JavaScript. I fell in love with progr
 ##  My Projects
 
   <p>
+     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFEPRESCHOOL2023Q2/random-game" target="_blank">
+Game ping pong
+     </a>
+  </p>
+  <p>
      <a href="https://rolling-scopes-school.github.io/alinavodo-JSFEPRESCHOOL2023Q2/audio_player/" target="_blank">
 Audio player
      </a>
@@ -60,7 +65,7 @@ Library
      </a>
   </p>
   <p>
-     <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="_blank">
+    <a href="https://rolling-scopes-school.github.io/alinavodo-JSFE2023Q4/coffee-house/coffee.html" target="_blank">
 Coffee-house
      </a>
   </p>
